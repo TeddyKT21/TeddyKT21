@@ -17,17 +17,16 @@ which makes it a perfect fit for a nerd like me.
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+### Currently I'm working on:
 
-<!-- ### In my toolkit:
-<img
+#### chessBrain:
+A deep learning based program that generates chess games through self-play, 
+and iteratively trains a neural network to provide evaluations for chess positions with increasing accuracy.
+In each iteration, the network is used to generate a new set of games, and is then trained on them
 
-Here are some ideas to get you started:
+#### SupChat
+In collaboration with [tomerrim](https://github.com/tomerrim) and [Drakomt](https://github.com/Drakomt/SupChat) we are developing a website that enables users to send messages to each other and create chat rooms 
+(we took some inspiration from existing products)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+
+
