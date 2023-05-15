@@ -1,7 +1,13 @@
-### Hi there 👋
-
+## Hey, I'm Teddy Klaytman 👋
+My name is Teddy and I'm a junior Full-Stack developer.
+I've been immersed in the world of software development for about a year now, and I absolutely love it!
+For me, software development offers a perfect balance of problem solving and creativity.
+This field has endless opportunity for growth and development and countless technologies to master
+which makes it a perfect fit for a nerd like me.
 <!--
-**TeddyKT21/TeddyKT21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### In my toolkit:
+<img
 
 Here are some ideas to get you started:
 
